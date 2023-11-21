@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Metronom2</string>
-    <string name="main_title">onBeat</string>
-    <string name="main_button">start</string>
-    <string name="tempo_indicator">BPM</string>
-</resources>
